@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_local"
+        android:icon="@drawable/ic_shopping_cart"
+        android:title="My Pantry"
+        app:showAsAction="ifRoom">
+        <menu>
+            <item
+                android:id="@+id/action_search_name"
+                android:title="Filter by name"
+                app:showAsAction="never"/>
+            <item
+                android:id="@+id/action_search_category"
+                android:title="Filter by category"
+                app:showAsAction="never"/>
+        </menu>
+    </item>
+    />
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search"
+        android:title="Search"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_logout"
+        android:icon="@drawable/ic_logout"
+        android:title="Logout"
+        app:showAsAction="ifRoom"/>
+
+</menu>

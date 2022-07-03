@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/LAM/Android Project/app/src/main/res/drawable/ic_delete.xml" value="0.14635416666666667" />
+        <entry key="..\:/LAM/Android Project/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/LAM/Android Project/app/src/main/res/layout/fragment_add_item.xml" value="0.11614583333333334" />
+        <entry key="..\:/LAM/Android Project/app/src/main/res/layout/fragment_barcode_scanner.xml" value="0.2" />
+        <entry key="..\:/LAM/Android Project/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/LAM/Android Project/app/src/main/res/layout/fragment_login.xml" value="0.13020833333333334" />
+        <entry key="..\:/LAM/Android Project/app/src/main/res/layout/fragment_product.xml" value="0.2" />
+        <entry key="..\:/LAM/Android Project/app/src/main/res/layout/fragment_register.xml" value="0.13020833333333334" />
+        <entry key="..\:/LAM/Android Project/app/src/main/res/layout/local_item_row.xml" value="0.13020833333333334" />
+        <entry key="..\:/LAM/Android Project/app/src/main/res/layout/remote_item_row.xml" value="0.2" />
+        <entry key="..\:/LAM/Android Project/app/src/main/res/menu/home_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/LAM/TrackMyPantry/app/src/main/res/drawable/ic_remove_circle.xml" value="0.14635416666666667" />
+        <entry key="..\:/LAM/TrackMyPantry/app/src/main/res/layout/fragment_category_dialog.xml" value="0.2346014492753623" />
+        <entry key="..\:/LAM/TrackMyPantry/app/src/main/res/layout/fragment_home.xml" value="0.13020833333333334" />
+        <entry key="..\:/LAM/TrackMyPantry/app/src/main/res/layout/fragment_product.xml" value="0.2140625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

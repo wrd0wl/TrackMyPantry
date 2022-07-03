@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Track My Pantry</string>
+    <string-array name="pantry_category">
+        <item>Fruits</item>
+        <item>Vegetables</item>
+        <item>Dairy</item>
+        <item>Bread and Bakery</item>
+        <item>Canned Goods</item>
+        <item>Meat</item>
+        <item>Fish</item>
+        <item>Cereal</item>
+        <item>Pasta and Rice</item>
+        <item>Beverages</item>
+        <item>Coffee and Tea</item>
+        <item>Oils and Condiments</item>
+        <item>Snacks</item>
+        <item>Other</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
